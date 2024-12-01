@@ -27,9 +27,9 @@ pip install -r requirements.txt
 ### (pyw specific)
 - Once you build you will be prompted to save your file once thats done your all set to do whatever you want with it
 
-## Features
+# Features
 
-# Discord Info
+## Discord Info
 - Token
 - Nitro
 - Billing
@@ -43,14 +43,14 @@ pip install -r requirements.txt
 - Banking Cards
 - Crypto Wallets
   
-# Game Information
+## Game Information
 - Minecraft Login Info
 - Roblox Account and Login Info
 
-# Discord Injection
--Sends token, password & email on user login or when user changes password
+## Discord Injection
+- Sends token, password & email on user login or when user changes password
 
-# System info
+## System info
 - User
 - OS
 - System
