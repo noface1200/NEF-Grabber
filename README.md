@@ -4,6 +4,8 @@ A up to date Discord/Multi Grabber, Stealer written in Python 3 and packed with 
 | :exclamation:  THIS PROGRAM IS FOR EDUCTATIONAL AND RESEARCH PURPOSES ONLY   |
 |------------------------------------------------------------------------------|
 
+(scroll down for install instructions)
+
 # Features
 
 ## Discord Info
