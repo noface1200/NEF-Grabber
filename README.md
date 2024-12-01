@@ -43,7 +43,7 @@ pip install -r requirements.txt
 - Banking Cards
 - Crypto Wallets
   
-  # Game Information
+# Game Information
 - Minecraft Login Info
 - Roblox Account and Login Info
 
