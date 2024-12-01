@@ -2,8 +2,8 @@
 A up to date Discord/Multi Grabber, Stealer written in Python 3 and packed with a lot of methods &amp; features.
 
 
-| :exclamation:  THIS PROGRAM IS FOR EDUCTATIONAL AND REARCH PURPOSES ONLY   |
-|----------------------------------------------------------------------------|
+| :exclamation:  THIS PROGRAM IS FOR EDUCTATIONAL AND RESEARCH PURPOSES ONLY   |
+|------------------------------------------------------------------------------|
 
 ## Install Dependencies from `requirements.txt`
 To install all the dependencies listed in a `requirements.txt` file, Run the following command:
