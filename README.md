@@ -24,6 +24,8 @@ pip install -r requirements.txt
 ## 3. Final Steps
 #(exe specific)
 - Once you've made your selections the application may freeze DO NOT CLOSE IT this is normal and will pass. after, the build process will complete. You'll see a confirmation message and the executable will be in the dist folder if you want to re-use, delete the build folder the dist contents and the spec and log file .
-#pyw specific
+#(pyw specific)
 - Once you build you will be prompted to save your file once thats done your all set to do whatever you want with it
-- If you encounter any issues, refer to the Issues Tab.
+
+
+  (If you encounter any issues, post them in the Issues Tab.)
