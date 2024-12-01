@@ -14,8 +14,8 @@ pip install -r requirements.txt
 - **Discord Webhook**: If you want to send notifications to a Discord channel, select this option. You will need to provide a valid Discord webhook URL. Here's how to obtain it:
 
   1. Go to your Discord server.
-  2. Open **Server Settings** > **Integrations** > **Webhooks**.
-  3. Create a new webhook and copy the URL.
+   2. Open **Server Settings** > **Integrations** > **Webhooks**.
+    3. Create a new webhook and copy the URL.
   
     Paste this URL when prompted by the builder.
 
