@@ -29,3 +29,50 @@ pip install -r requirements.txt
 
 
   (If you encounter any issues, post them in the Issues Tab.)
+
+#Features
+
+#Discord Info
+- Token
+- Nitro
+- Billing
+- 2FA
+- Email
+- Phone
+- Browser Data
+- Cookies
+- Passwords
+- History
+- Banking Cards
+- Crypto Wallets
+  
+  #Game Information
+- Minecraft Login Info
+- Roblox Account and Login Info
+
+#Discord Injection
+-Sends token, password & email on user login or when user changes password
+
+#System info
+- User
+- OS
+- System
+- Network IP
+- Wifi
+- Mac Address
+- Specs
+- Screenshot
+- Vpn's
+- Installed AV's
+- Product Key
+  #General Functions
+- Checks if being run in a virustotal sandbox/virtual machine
+- Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
+- Adds file to startup
+- Anti Spam
+- Fake Error
+- Obfuscation
+- Icon
+- Low Detections
+- Bypass Token Protector
+- Clipboard
